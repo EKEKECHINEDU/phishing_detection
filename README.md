@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="GitHubtopicpic/images/phishing-website-classification.jpg" 
+  <img src="https://github.com/EKEKECHINEDU/phishing_detection/blob/main/images/phishing-website-classification.jpg" 
        width="350">
 </p>
 <br>
@@ -77,7 +77,7 @@ There were no missing values or duplicate observations in the dataset. The ID va
 
 <br>
 <p align="center">
-  <img src="images/barphishing.jpg">
+  <img src="https://github.com/EKEKECHINEDU/phishing_detection/blob/main/images/barphishing.jpg">
 </p>
 <br>
 
@@ -88,7 +88,7 @@ The description of the sample plots of three binary varaibles by the target vari
 
 <br>
 <p align="center">
-  <img src="images/densityphishing.jpg">
+  <img src="https://github.com/EKEKECHINEDU/phishing_detection/blob/main/images/densityphishing.jpg">
 </p>
 <br>
 
@@ -103,7 +103,7 @@ To prevent leakage in analysis, the dataset was first divided into two: the trai
 
 <br>
 <p align="center">
-  <img src="images/phishingmutualinfo.jpg">
+  <img src="https://github.com/EKEKECHINEDU/phishing_detection/blob/main/images/phishingmutualinfo.jpg">
 </p>
 <br>
 
