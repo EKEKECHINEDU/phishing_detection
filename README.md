@@ -1,7 +1,7 @@
-## Employee Attrition Analysis  
+## Employee Attrition Analysis [[view code]](https://nbviewer.org/github/EKEKECHINEDU/phishing_detection/blob/main/notebook/phishing.ipynb)
 ![image title](https://img.shields.io/badge/pandas-2.1.1-red.svg) ![image title](https://img.shields.io/badge/numpy-2.1.2-green.svg) ![Image title](https://img.shields.io/badge/sklearn-1.1.1-orange.svg) ![image title](https://img.shields.io/badge/seaborn-v0.10.0-yellow.svg) ![image title](https://img.shields.io/badge/matplotlib-v3.09.1-orange.svg)
 
-**The code is available [here](#-githubcode ipynb)**
+**The code is available [here]**(https://nbviewer.org/github/EKEKECHINEDU/phishing_detection/blob/main/notebook/phishing.ipynb)
 
 <br>
 <br>
